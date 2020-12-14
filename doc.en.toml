@@ -69,6 +69,10 @@ On the organisation overview or map, you can navigate in your organisation by cl
 * the recent activities in the organisation overvie panel
 """
 
+[org.tasks.invite]
+header = "invite member"
+content = "Work in progress..."
+
 
 [tension]
 name = "tensions"
