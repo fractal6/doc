@@ -90,12 +90,12 @@ You can also create a tension by clicking on the tooltip that appear when you ho
 [tension.tasks.close]
 header = "close/reopen tension"
 content = """
-Tension can closed or reopen at any time by user with **sufficient rights**, when this tension is considered solved. Closed tension won't appear in the Overview activities panel but can still be access in the Tension panel.
+Tensions can be closed or reopen at any time by user with **sufficient rights**, when they are considered solved. Closed tension won't appear in the Overview activities panel but can still be access in the Tension panel thanks to the searching filters.
 """
 
 [tension.tasks.comment]
 header = "Add a comment"
-content = "In a tension page, you can add a comment to a tensions in the sub-panel _Conversation_."
+content = "In a tension page, you can add a comment to a tension in the sub-panel _Conversation_."
 
 [tension.tasks.assignee]
 header = "Add/remove assignees"
