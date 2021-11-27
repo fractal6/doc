@@ -21,9 +21,9 @@ content = """
 
 **Tension**: distance between where you are and where you want to be. A tension can be used for example to share and manage tasks, issues or ideas. A tension, like an email, has an emitter and a receiver (a role or a circle).
 There is three main categories of tension:
-* Internal (or governance): concerning the structure of the organisation its mandates etc.
-* external (or operational): concerns actions carried out by the organisation
-* Mutual aid (or Help): for help requests, questions or clarifications.
+* Operational: A general category of tension which can be a task, an issue or whatever that need to be share in the organisation.
+* Governance: concerning the structure of the organisation its mandates etc.
+* Help: for help requests, questions or clarifications.
 """
 
 [org.tasks.create]

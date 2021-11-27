@@ -20,9 +20,9 @@ content = """
 
 **Tension** : distance entre la ou est là l'on veut aller. Une tension peut être utilisée par exemple pour partager et gérer des tâches, des questions ou des idées. Une tension, comme un courrier électronique, a un émetteur et un destinataire (un rôle ou un cercle).
 Il y a trois grandes catégories de tension :
-* Interne (ou de gouvernance) : concernant la structure de l'organisation, ses mandats etc.
-* externe (ou opérationnelle) : concerne les actions mené par l'organisation.
-* Entraide (ou Help) : pour les demandes d'aide, questions ou clarifications.
+* Opérationnelle : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
+* Gouvernance : concernant la structure de l'organisation, ses mandats etc.
+* Entraide : pour les demandes d'aide, questions ou clarifications.
 """
 
 [org.tasks.create]
