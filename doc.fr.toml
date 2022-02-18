@@ -8,7 +8,7 @@ header = "définitions"
 content = """
 **organisation** (fractale) : groupe d'humains partageant une raison d'être commune (cercle racine) composé de roles et de cercles.  
 
-**Role** : une fonction réalisé par une personne.  
+**Role** : une fonction réalisé par un membre.  
 
 **Circle** : ensemble de role et de sous-cercles (équipe, groupe etc).  
 
@@ -23,6 +23,7 @@ Il y a trois grandes catégories de tension :
 * Opérationnelle : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
 * Gouvernance : concernant la structure de l'organisation, ses mandats etc.
 * Entraide : pour les demandes d'aide, questions ou clarifications.
+* Alerte: Pour les alertes, annonce genéral ou chaque membre sous le cercle alerté recevra une notification (niveau de coordinateur requis pour déclencher).
 """
 
 [org.tasks.create]
@@ -30,11 +31,11 @@ header = "créer une organisation"
 content = "Cliquez sur le bouton + dans le coin supérieur droit de la page. Cliquez ensuite sur le bouton 'Créer une nouvelle organisation'."
 
 [org.tasks.mode]
-header = "mode de l'organisation"
+header = "Processus de gouvernance"
 content = """
-Le mode de l'organisation permet de définir la portée des droits associés au roles dans l'organisation. Il existe deux modes :
+Le processus de gouvernance permet de définir la portée des droits associés au roles dans l'organisation. Il existe deux processus de gouvernance :
 
-###### mode coordonné
+###### Coordonné
 
 Dans le mode coordoné, les rôles de coordinateur ont les droits suivant au sein de leurs cercles :
 * création de rôles et de sous-cercles
@@ -47,7 +48,7 @@ Les rôles normaux ont les droits suivante au sein de leurs cercles :
 * création de tension et commentaires 
 * fermer ses propres tensions 
 
-###### mode agile
+###### Agile
 
 Dans le mode agile les rôles ont les droits suivant au sein de leurs cercles :
 * création de rôles et de sous-cercles

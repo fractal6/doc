@@ -9,7 +9,7 @@ header = "definitions"
 content = """
 **Organisation** (fractal): group of humans sharing a common purpose (the root circle) organised in autonomous roles and sub-circles.  
 
-**Role**: a function that can be linked to a member user.  
+**Role**: a function that can be linked to a member.
 
 **Circle**: a set of roles and sub-circles (team, group etc).  
 
@@ -20,10 +20,11 @@ content = """
 * its policies (optional): the rules of access to its resources.
 
 **Tension**: distance between where you are and where you want to be. A tension can be used for example to share and manage tasks, issues or ideas. A tension, like an email, has an emitter and a receiver (a role or a circle).
-There is three main categories of tension:
+There is four main categories of tension:
 * Operational: A general category of tension which can be a task, an issue or whatever that need to be share in the organisation.
 * Governance: concerning the structure of the organisation its mandates etc.
 * Help: for help requests, questions or clarifications.
+* Alert: for alert requests, this are used for global annoncement. All the member behind the circle alerted will be notified (Coordinator level to trigger).
 """
 
 [org.tasks.create]
@@ -31,11 +32,11 @@ header = "create organisation"
 content = "Click on the plus (+) button in the top right corner of the page. Then click on the **Create new organisation** button."
 
 [org.tasks.mode]
-header = "organisation mode"
+header = "Governance process"
 content = """
-The organisation mode allows you to define the scope of rights associated with roles in the organisation. There are two modes:
+The governance process of a **circle** allows you to define the scope of rights associated with roles in an organisation circle. There are two governance process:
 
-###### coordinated mode
+###### Coordinated
 
 In the coordinated mode, the coordinator roles have the following rights within their circles:
 * creation of roles and sub-circles
@@ -48,7 +49,7 @@ Normal roles have the following rights within their circles :
 * creation of tensions and comments 
 * close your own tensions
 
-###### agile mode
+###### Agile
 
 In the agile mode, all roles have the following rights within their circles:
 * creation of roles and sub-circles
@@ -97,12 +98,12 @@ You can also create a tension by clicking on the tooltip that appear when you ho
 [tension.tasks.close]
 header = "close/reopen tension"
 content = """
-Tensions can be closed or reopen at any time by user with **sufficient rights**, when they are considered solved. Closed tension won't appear in the Overview activities panel but can still be access in the Tension panel thanks to the searching filters.
+Tensions can be closed or reopen at any time by members with **sufficient rights**, when they are considered solved. Closed tension won't appear in the Overview activities panel but can still be access in the Tension panel thanks to the searching filters.
 """
 
 [tension.tasks.comment]
 header = "Add a comment"
-content = "In a tension page, you can add a comment to a tension in the sub-panel _Conversation_."
+content = "In a tension page, you can add a comment to a tension in the _Conversation_ panel."
 
 [tension.tasks.assignee]
 header = "Add/remove assignees"
