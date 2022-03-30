@@ -2,10 +2,7 @@
 LANGS := en fr
 
 bootstrap:
-	pip install mkdocs
-	#pip install mkdocs-bootswatch
-	pip install mkdocs-material
-	pip install mkdocs-static-i18n
+	pip install -r requirements.txt
 	
 
 docs: $(LANGS)

@@ -1,0 +1,12 @@
+image: python:latest
+pages:
+  stage: deploy
+  only:
+    - master
+    - main
+  script:
+    - pip install -r requirements.txt
+    - mkdocs build --site-dir public
+  artifacts:
+    paths:
+      - public
