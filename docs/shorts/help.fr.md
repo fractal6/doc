@@ -1,12 +1,6 @@
-[org]
-name = "Organisation"
+## Définitions
 
-[[org.tasks]]
-
-[org.tasks.definition]
-header = "Définitions"
-content = """
-**organisation** (fractale) : un groupe d'humains partageant une raison d'être commune (cercle racine) composé de roles et de cercles.  
+**organisation** (fractale) : un groupe d'humains partageant une raison d'être commune (cercle racine) composé de roles et de cercles.
 
 **Role** : une fonction réalisé par un membre avec un mandat donné.   
 
@@ -26,15 +20,14 @@ Une tension appartient à un type en fonction du sujet qu'elle traite. Il y a qu
 * Gouvernance : concernant la structure de l'organisation, ses mandats etc.
 * Entraide : pour les demandes d'aide, questions ou clarifications.
 * Alerte: Pour les alertes, annonce genéral ou chaque membre sous le cercle alerté recevra une notification (niveau de coordinateur requis pour déclencher).
-"""
 
-[org.tasks.create]
-header = "Créer une organisation"
-content = "Cliquez sur le bouton + dans le coin supérieur droit de la page. Cliquez ensuite sur le bouton 'Créer une nouvelle organisation'."
 
-[org.tasks.mode]
-header = "Processus de gouvernance"
-content = """
+## Créer une organisation
+
+Cliquez sur le bouton + dans le coin supérieur droit de la page. Cliquez ensuite sur le bouton 'Créer une nouvelle organisation'.
+
+## Processus de gouvernance
+
 Le processus de gouvernance permet de définir la portée des droits associés au roles dans l'organisation. Il existe deux processus de gouvernance :
 
 ###### Coordonné
@@ -63,6 +56,5 @@ Dans le mode agile les rôles ont les droits suivant au sein de leurs cercles :
 * déplacement des tensions
 
 Note: les droits d'un rôle associé à un cercle sont hérité dans les sous-cercles qui ne possède pas rôles
-"""
 
 

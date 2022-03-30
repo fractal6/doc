@@ -1,13 +1,6 @@
+## Definitions
 
-[org]
-name = "Organisations"
-
-[[org.tasks]]
-
-[org.tasks.definition]
-header = "Definitions"
-content = """
-**Organisation** (fractal): a group of humans sharing a common purpose (the root circle) organised in autonomous roles and sub-circles.  
+**Organisation** (fractal): a group of humans sharing a common purpose (the root circle) organised in autonomous roles and sub-circles.
 
 **Role**: a function that can be linked to a member with a given mandate.
 
@@ -28,15 +21,14 @@ A tension belong to a type according to its topic. There are four different type
 * Governance: concerning the structure of the organisation its mandates etc.
 * Help: for help requests, questions or clarifications.
 * Alert: for alert requests, this are used for global announcement. All the member behind the circle alerted will be notified (Coordinator level to trigger).
-"""
 
-[org.tasks.create]
-header = "Create organisation"
-content = "Click on the plus (+) button in the top right corner of the page. Then click on the **Create new organisation** button."
 
-[org.tasks.mode]
-header = "Governance process"
-content = """
+## Create organisation
+
+Click on the plus (+) button in the top right corner of the page. Then click on the **Create new organisation** button.
+
+## Governance process
+
 The governance process of a **circle** allows you to define the scope of rights associated with roles in an organisation circle. There are two governance process:
 
 ###### Coordinated
@@ -65,93 +57,77 @@ In the agile mode, all roles have the following rights within their circles:
 * move tensions
 
 Note: the rights of a role associated with a circle are inherited in sub-circles that do not have roles.
-"""
 
-[org.tasks.navigation]
-header = "Organisation navigation"
-content = """
+
+## Organisation navigation
+
 On the organisation overview tab, you can navigate in your organisation by clicking a role or circle. The **focus** will be refreshed as well as:
 
 * the organisation path in the header of the page indicating your current localisation
 * the mandate in the current circle
 * the recent activities of the circle
-"""
 
-[org.tasks.label]
-header = "Create and edit labels"
-content = """In the **settings panel**, the *labels menu* allow you to create, edit and remove labels.
+
+## Create and edit labels
+
+In the **settings panel**, the *labels menu* allow you to create, edit and remove labels.
 
 Note that labels are defined at the circle level. The labels that can be attach to a tension are the ones that belongs of its receiver, plus all the labels defined at an upper level. In other words, child circle inherit the labels of their parents.
-"""
 
-[org.tasks.role]
-header = "Create and edit template roles"
-content = """In the **settings panel**, the *roles menu* allow you to create, edit and remove roles. 
+
+## Create and edit template roles
+
+In the **settings panel**, the *roles menu* allow you to create, edit and remove roles.
 
 Once a template role is created, you will be able to use it when you create a new role in your organisation
 
 This is useful when you want to create multiple identical roles in different circles, that share the same mandate.
 
 Note that template roles are defined at the circle level. When you create a role you will be able to use the template roles that are defined in this circle or any other in the parent circles..
-"""
-
-[org.tasks.invite]
-header = "Invite member"
-content = "New member can be invite to join your organisation. You can invite either from the **members** tab, by clicking the invite button, or from the invite button in the **overview** organisation map. You can also invite a new member to join a role you have created, although you can invite people that are already member of your organisation to join a role "
 
 
-[tension]
-name = "Tensions"
+## Invite member
 
-[[tension.tasks]]
+New member can be invite to join your organisation. You can invite either from the **members** tab, by clicking the invite button, or from the invite button in the **overview** organisation map. You can also invite a new member to join a role you have created, although you can invite people that are already member of your organisation to join a role 
 
-[tension.tasks.create]
-header = "Add tension"
-content = """
+## Add tension
+
 In the **overview panel*, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
 
 You can also create a tension by clicking on the tooltip that appear when you hover a role/circle in the organisation map.
-"""
 
-[tension.tasks.close]
-header = "Close/Reopen tension"
-content = """
+
+## Close/Reopen tension
+
 A Tension can be closed or reopen at any time by members with **sufficient rights**, when they considered it as solved. Closed tension are not shown be default but can still be consulted by using the right filters in the tensions page..
-"""
 
-[tension.tasks.comment]
-header = "Add a comment"
-content = "In a tension page, you can add a comment to a tension in the *conversation sub-tab*."
 
-[tension.tasks.assignee]
-header = "Add/remove assignees"
-content = "In a tension page, you can add/remove assignees by clicking on the assignees button on the right panel."
+## Add a comment
 
-[tension.tasks.label]
-header = "Add/Remove labels"
-content = """In a tension page, you can add/remove labels by clicking on the labels button on the right panel.
+In a tension page, you can add a comment to a tension in the *conversation sub-tab*.
+
+## Add/remove assignees
+
+In a tension page, you can add/remove assignees by clicking on the assignees button on the right panel.
+
+## Add/Remove labels
+
+In a tension page, you can add/remove labels by clicking on the labels button on the right panel.
 
 You can also add labels when creating a tension with the labels button at the bottom of the page.
-"""
 
-[role]
-name = "Roles"
 
-[[role.tasks]]
+## Add role
 
-[role.tasks.create]
-header = "Add role"
-content = """
 In the **overview panel**, click on the plus (+) button on the right of the search bar. In the window that opens, click on the **New Role** button. You can enter the role information in the form, then click on "Create Role" to add the role.
 
 Note1: The role will be created inside the current focused circle.  
 Note2: For each role created, there is a governance tension that is co-created automatically and that allows to consult and edit the history of modifications of the role.  
 Note3: If you click **Submit tension** instead of **Create Role**, only a governance tension will be created but the role won't be added to your organisation. You can still edit and add it later.  
-"""
 
-[role.tasks.edit]
-header = "Edit role"
-content = """
+
+## Edit role
+
 If you have sufficient rights, you can edit the following properties of a role:
 
 * its name
@@ -160,48 +136,37 @@ If you have sufficient rights, you can edit the following properties of a role:
 * its first-link (invite or leave)
 
 To edit those properties, open the panel by clicking on either the tooltip (the triple dot on the right) that appear above each circle in the organisation map (**overview tab**), or from the side pane of the tension related to this role.
-"""
 
-[role.tasks.archive]
-header = "Archive role"
-content = """
+
+## Archive role
+
 In the **overview tab**, click on the  "tree dots" (...) button on the right of the search bar. In the menu that opens, click on the **archive role** entry to archive the focused role (visible only if you have the **sufficient rights**).
 
 You can also archive a role on the tension page of the role, by clicking on the _action_ button on the right panel.
 
 Note: you can access the tension page of a role by clicking on the Edit button in "three dot" (...) button.
-"""
 
-[role.tasks.leave]
-header = "Leave role"
-content = """
+
+## Leave role
+
 In the **overview tab**, click on the  "tree dots" (...) button on the right of the search bar. In the menu that opens, click on the **leave role** entry to leave the focused role (visible only if are **linked to** this role).
 
 You can also leave a role on the tension page of the role, by clicking on the _action_ button on the right panel.
 
 Note: you can access the tension page of a role by clicking on the Edit button in "three dot" (...) button.
-"""
 
 
+## Add circle
 
-[circle]
-name = "Circles"
-
-[[circle.tasks]]
-
-[circle.tasks.create]
-header = "Add circle"
-content = """
 In the Overview panel, click on the plus (+) button on the right of the search bar. In the window that opens, click on the **New Sub-Circle** button. You can enter the circle information in the form, then click on "Create Circle" to add the circle.
 
 Note1: The circle will be created inside the current focused circle.  
 Note2: For each circle created, there is a governance tension that is co-created automatically and that allows to consult and edit the history of modifications of the circle.  
 Note3: If you click **Submit tension** instead of **Create Circle**, only a governance tension will be created but the circle won't be added to your organisation. You can still edit and add it later.  
-"""
 
-[circle.tasks.edit]
-header = "Edit circle"
-content = """
+
+## Edit circle
+
 If you have sufficient rights, you can edit the following properties of a circle:
 
 * its name
@@ -210,14 +175,14 @@ If you have sufficient rights, you can edit the following properties of a circle
 * its visibility
 
 To can edit those properties from the panel accessible either by clicking in the tooltip (the triple dot on the right) that appear above each circle, or from the side pane of the tension related to this circle.
-"""
 
-[circle.tasks.archive]
-header = "Archive circle"
-content = """
+
+## Archive circle
+
 In the Overview panel, click on the  "tree dots" (...) button on the right of the search bar. In the menu that opens, click on the **archive circle** entry to archive the focused circle (visible only if you have the **sufficient rights**).
 
 You can also archive a circle on the tension page of the circle, by clicking on the _action_ button on the right panel.
 
 _Note_: You can access the tension page of a circle by clicking on the Edit button in "three dot" (...) button.  
-"""
+
+

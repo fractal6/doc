@@ -20,5 +20,7 @@ $(LANGS):
 	rm -f data/quickdoc.$@.json_
 
 	# json doc to markdown
+	# @debug: main level are removed because only one main title "#" per document, 
 	cat data/quickdoc.$@.json | \
-		jq -r '.[] | ["# " + .name + "\n"] +  (.tasks | map("## " + .header + "\n" + .content + "\n" )) | .[]' > docs/shorts/help.$@.md
+		jq -r '.[] | (.tasks | map("## " + .header + "\n\n" + .content + "\n" )) | .[]' > docs/shorts/help.$@.md
+		#jq -r '.[] | ["# " + .name + "\n\n"] +  (.tasks | map("## " + .header + "\n\n" + .content + "\n" )) | .[]' > docs/shorts/help.$@.md
