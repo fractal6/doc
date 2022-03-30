@@ -29,12 +29,16 @@ theme:
   custom_dir: overrides
   features:
     - toc.integrate
+    - announce.dismiss
   palette:
     - scheme: slate
+      primary: teal
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
     - scheme: indigo
+      primary: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -48,6 +52,7 @@ plugins:
         fr: Français
 
 markdown_extensions:
+  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg

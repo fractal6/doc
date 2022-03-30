@@ -1,6 +1,6 @@
 # Welcome to Fractale documentation
 
-**Fractale** ([fractale.co](https://fractale.co)) is a platform that provides tools and infrastructures to support organisations in the process of self-organisation. That means a shift from pyramidal management with subordination relation towards fractal circles with relationship based on trust and peer to peer commitments.
+**Fractale** ([fractale.co](https://fractale.co){:target="_blank"}) is a platform that provides tools and infrastructures to support organisations in the process of self-organisation. That means a shift from pyramidal management with subordination relation towards fractal circles with relationship based on trust and peer to peer commitments.
 
 The platform offers a radical transparency of the structure of the organisation, allows members to communicate through a tensions publishing system, and organisations to evolve. Its goal 
 is to facilitate organisations to achieve their goals through mutual aid and collective intelligence.
