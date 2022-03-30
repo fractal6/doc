@@ -1,14 +1,14 @@
 [org]
-name = "organisation"
+name = "Organisation"
 
 [[org.tasks]]
 
 [org.tasks.definition]
-header = "définitions"
+header = "Définitions"
 content = """
-**organisation** (fractale) : groupe d'humains partageant une raison d'être commune (cercle racine) composé de roles et de cercles.  
+**organisation** (fractale) : un groupe d'humains partageant une raison d'être commune (cercle racine) composé de roles et de cercles.  
 
-**Role** : une fonction réalisé par un membre.  
+**Role** : une fonction réalisé par un membre avec un mandat donné.   
 
 **Circle** : ensemble de role et de sous-cercles (équipe, groupe etc).  
 
@@ -18,8 +18,8 @@ content = """
 * ses domaines (optionel) : quelle propriétés/ressources il contrôle.
 * ses politiques (optionel) : les regles d'acces à ses ressources.
 
-**Tension** : distance entre la ou est là l'on veut aller. Une tension peut être utilisée par exemple pour partager et gérer des tâches, des questions ou des idées. Une tension, comme un courrier électronique, a un émetteur et un destinataire (un rôle ou un cercle).
-Il y a trois grandes catégories de tension :
+**Tension** : distance entre la ou l'on est et là l'on veut aller. Une tension peut être utilisée par exemple pour partager et gérer des tâches, des questions ou des idées. Une tension, comme un courrier électronique, a un émetteur et un destinataire (un rôle ou un cercle).
+Une tension appartient à un type en fonction du sujet qu'elle traite. Il y a quatre types différents :
 * Opérationnelle : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
 * Gouvernance : concernant la structure de l'organisation, ses mandats etc.
 * Entraide : pour les demandes d'aide, questions ou clarifications.
@@ -27,7 +27,7 @@ Il y a trois grandes catégories de tension :
 """
 
 [org.tasks.create]
-header = "créer une organisation"
+header = "Créer une organisation"
 content = "Cliquez sur le bouton + dans le coin supérieur droit de la page. Cliquez ensuite sur le bouton 'Créer une nouvelle organisation'."
 
 [org.tasks.mode]
