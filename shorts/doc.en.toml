@@ -209,7 +209,7 @@ If you have sufficient rights, you can edit the following properties of a circle
 * its governance process
 * its visibility
 
-To can edit those properties from the panel accessible either by clicking in the tooltip (the triple dot on the right) that appear above each circle, or from the side pane of the tension related to this circle.
+To edit those properties open the panel by either clicking in the tooltip (the triple dot on the right) that appear above each circle, or from the side pane of the tension related to this circle.
 """
 
 [circle.tasks.archive]

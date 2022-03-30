@@ -21,15 +21,15 @@ Organisations are seen like graphs, or trees, which are akin to living entities 
 * be robust to growth and reorganization.
 
 
-It is inspired by several ideas and initiatives (\*) :
+It is inspired by several ideas and initiatives [^1]:
 
-* The [Holacracy](https://en.wikipedia.org/wiki/Holacracy) 
-* The [Sociocracy](https://en.wikipedia.org/wiki/Sociocracy)
-* The [Teal organisation](https://reinventingorganizationswiki.com).
-* The [Stigmergy](https://wiki.p2pfoundation.net/Stigmergy).
+* The [Holacracy](https://en.wikipedia.org/wiki/Holacracy){:target="_blank"}
+* The [Sociocracy](https://en.wikipedia.org/wiki/Sociocracy){:target="_blank"}
+* The [Teal organisation](https://reinventingorganizationswiki.com){:target="_blank"}
+* The [Stigmergy](https://wiki.p2pfoundation.net/Stigmergy){:target="_blank"}
 <!--* The [liberated company](https://en.wikipedia.org/wiki/Liberated_company). -->
-* Collaborative tool for developer such as [Gitlab](https://en.wikipedia.org/wiki/GitLab) and [Github](https://github.com).
+* Collaborative tool for developer such as [Gitlab](https://en.wikipedia.org/wiki/GitLab){:target="_blank"} and [Github](https://github.com){:target="_blank"}.
 * The way living organism are designed, made up of organs that are simultaneously interdependent *and* autonomous but act towards a common purpose and capable of adaptation according to inner and outer tensions.
 
-(\*) But note that we do not pretend to conform to any of this solution and rather aims to be adaptable to a plurality of approaches.
+[^1]: But note that we do not pretend to conform to any of this solution and rather aims to be adaptable to a plurality of approaches.
 
