@@ -23,7 +23,7 @@ Organisations are seen like graphs, or trees, which are akin to living entities 
 
 It is inspired by several ideas and initiatives [^1]:
 
-* The [Holacracy](https://en.wikipedia.org/wiki/Holacracy){:target="_blank"}
+* The [Holacracy](https://en.wikipedia.org/wiki/Holacracy){:target="_blank"} and its [constitution](https://www.holacracy.org/constitution)
 * The [Sociocracy](https://en.wikipedia.org/wiki/Sociocracy){:target="_blank"}
 * The [Teal organisation](https://reinventingorganizationswiki.com){:target="_blank"}
 * The [Stigmergy](https://wiki.p2pfoundation.net/Stigmergy){:target="_blank"}

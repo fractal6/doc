@@ -2,8 +2,7 @@
 LANGS := en fr
 
 bootstrap:
-	pip install -r requirements.txt
-	
+	pip install -r requirements.txt	
 
 docs: $(LANGS)
 
