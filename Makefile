@@ -1,6 +1,9 @@
 .ONESHELL:
 LANGS := en fr
 
+dev:
+	mkdocs serve -a localhost:8008
+
 bootstrap:
 	pip install -r requirements.txt	
 
