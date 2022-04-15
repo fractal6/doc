@@ -106,9 +106,9 @@ name = "Tensions"
 [[tension.tasks]]
 
 [tension.tasks.create]
-header = "Add tension"
+header = "Create a tension"
 content = """
-In the **overview panel*, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
+In the **overview panel**, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
 
 You can also create a tension by clicking on the tooltip that appear when you hover a role/circle in the organisation map.
 """

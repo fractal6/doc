@@ -90,9 +90,9 @@ Note that template roles are defined at the circle level. When you create a role
 
 New member can be invite to join your organisation. You can invite either from the **members** tab, by clicking the invite button, or from the invite button in the **overview** organisation map. You can also invite a new member to join a role you have created, although you can invite people that are already member of your organisation to join a role 
 
-## Add tension
+## Create a tension
 
-In the **overview panel*, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
+In the **overview panel**, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
 
 You can also create a tension by clicking on the tooltip that appear when you hover a role/circle in the organisation map.
 
@@ -174,7 +174,7 @@ If you have sufficient rights, you can edit the following properties of a circle
 * its governance process
 * its visibility
 
-To can edit those properties from the panel accessible either by clicking in the tooltip (the triple dot on the right) that appear above each circle, or from the side pane of the tension related to this circle.
+To edit those properties open the panel by either clicking in the tooltip (the triple dot on the right) that appear above each circle, or from the side pane of the tension related to this circle.
 
 
 ## Archive circle

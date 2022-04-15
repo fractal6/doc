@@ -7,7 +7,7 @@ dev:
 bootstrap:
 	pip install -r requirements.txt	
 
-docs: $(LANGS)
+quickdoc: $(LANGS)
 
 $(LANGS):
 	# requirements:
