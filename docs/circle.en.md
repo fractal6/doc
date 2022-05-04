@@ -12,9 +12,11 @@ A Role definition consists of a descriptive name and one or more of the followin
 
 A Role may also hold ***"Policies"***, which are grants or constraints of authority, or special rules that apply within that Role.
 
-## Type of Role
+## Membership
 
-In **Fractale**, there is several type of roles that reflect different levels of authority and rights in the patform.
+In **Fractale**, you can be part of an organisation in different ways, which characterized a type of membership. Your membership affects your rights and what resources you can access.  
+
+The membership of an user can be one of the following: 
 
 ### Guest
 
@@ -22,15 +24,17 @@ When an user is invited to an organisation, and do not play any specific role, t
 
 ### Member
 
-Member of organisation who play at least one roles are considered as **Member**. Theirs level of authority and rights are determined by the role they play.
+If you play at least one role in an organisation, you will be automatically granted as **Member**. The level of authority and rights of a Member are determined by the role they play.
 
 ### Owner
 
-When you create a new organisation, you are set up as the an **Owner** of this organisation. **Owner** have the maximal level authority of rights in this organisation.
+When you create a new organisation, you are automatically set up as an **Owner** of this organisation. **Owners** have the maximal level authority of rights in the organisation.
 
-## Type of Authority
+## Authority
 
-In **Fractale**, there are several levels of authority that determine the rights of a role.
+Each role in an organisation is defined with a level of authority that affect the rights and the resources accessible by the role leader.  
+
+The authority of a role can be one of the following: 
 
 ### Peer
 
@@ -43,14 +47,16 @@ A Peer role has the following rights within its circle:
 
 ### Coordinator
 
-A Coordinator role has the same rights of a Peer plus the following rights within its circle:
+A Coordinator role has the same rights of a Peer plus the following rights within its circle (the circle where the role is defined):
 
-* creation of roles and sub-circles.
-* publish mandate modifications.
+* invite members
 * change tension type.
 * edit tension labels.
 * edit tension assignees.
 * move tensions.
+* creation of roles and sub-circles.
+* edit circles and roles properties.
+* publish mandate modifications.
 
 
 ### Bot
