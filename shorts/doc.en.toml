@@ -106,7 +106,7 @@ name = "Tensions"
 [[tension.tasks]]
 
 [tension.tasks.create]
-header = "Create a tension"
+header = "Create tension"
 content = """
 In the **overview panel**, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
 
@@ -120,7 +120,7 @@ A Tension can be closed or reopen at any time by members with **sufficient right
 """
 
 [tension.tasks.comment]
-header = "Add a comment"
+header = "Add comment"
 content = "In a tension page, you can add a comment to a tension in the *conversation sub-tab*."
 
 [tension.tasks.assignee]
@@ -140,7 +140,7 @@ name = "Roles"
 [[role.tasks]]
 
 [role.tasks.create]
-header = "Add role"
+header = "Create role"
 content = """
 In the **overview panel**, click on the plus (+) button on the right of the search bar. In the window that opens, click on the **New Role** button. You can enter the role information in the form, then click on "Create Role" to add the role.
 
@@ -190,7 +190,7 @@ name = "Circles"
 [[circle.tasks]]
 
 [circle.tasks.create]
-header = "Add circle"
+header = "Create circle"
 content = """
 In the Overview panel, click on the plus (+) button on the right of the search bar. In the window that opens, click on the **New Sub-Circle** button. You can enter the circle information in the form, then click on "Create Circle" to add the circle.
 
