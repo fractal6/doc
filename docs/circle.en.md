@@ -14,7 +14,7 @@ A Role may also hold ***"Policies"***, which are grants or constraints of author
 
 ## Membership
 
-In **Fractale**, you can be part of an organisation in different ways, which characterized a type of membership. Your membership affects your rights and what resources you can access.  
+In **Fractale**, you can be part of an organisation in different ways that characterized different type of membership. Your membership affects your rights and what resources you can access.  
 
 The membership of an user can be one of the following: 
 
@@ -32,7 +32,7 @@ When you create a new organisation, you are automatically set up as an **Owner**
 
 ## Authority
 
-Each role in an organisation is defined with a level of authority that affect the rights and the resources accessible by the role leader.  
+In addition to membership, a user can have one or several roles in a organisation. Each role is defined with a level of authority that affect the rights and the resources accessible by the role leader.  
 
 The authority of a role can be one of the following: 
 
