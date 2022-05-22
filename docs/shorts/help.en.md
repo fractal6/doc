@@ -29,7 +29,7 @@ Click on the plus (+) button in the top right corner of the page. Then click on 
 
 ## Governance process
 
-The governance process of a **circle** allows you to define the scope of rights associated with roles in an organisation circle. There are two governance process:
+The governance process of a **circle** allows you to define the scope of rights associated with roles inside this circle. There are two governance processes:
 
 ###### Coordinated
 
