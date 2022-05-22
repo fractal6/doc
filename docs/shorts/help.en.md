@@ -90,7 +90,7 @@ Note that template roles are defined at the circle level. When you create a role
 
 New member can be invite to join your organisation. You can invite either from the **members** tab, by clicking the invite button, or from the invite button in the **overview** organisation map. You can also invite a new member to join a role you have created, although you can invite people that are already member of your organisation to join a role 
 
-## Create a tension
+## Create tension
 
 In the **overview panel**, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
 
@@ -102,7 +102,7 @@ You can also create a tension by clicking on the tooltip that appear when you ho
 A Tension can be closed or reopen at any time by members with **sufficient rights**, when they considered it as solved. Closed tension are not shown be default but can still be consulted by using the right filters in the tensions page..
 
 
-## Add a comment
+## Add comment
 
 In a tension page, you can add a comment to a tension in the *conversation sub-tab*.
 
@@ -117,7 +117,7 @@ In a tension page, you can add/remove labels by clicking on the labels button on
 You can also add labels when creating a tension with the labels button at the bottom of the page.
 
 
-## Add role
+## Create role
 
 In the **overview panel**, click on the plus (+) button on the right of the search bar. In the window that opens, click on the **New Role** button. You can enter the role information in the form, then click on "Create Role" to add the role.
 
@@ -156,7 +156,7 @@ You can also leave a role on the tension page of the role, by clicking on the _a
 Note: you can access the tension page of a role by clicking on the Edit button in "three dot" (...) button.
 
 
-## Add circle
+## Create circle
 
 In the Overview panel, click on the plus (+) button on the right of the search bar. In the window that opens, click on the **New Sub-Circle** button. You can enter the circle information in the form, then click on "Create Circle" to add the circle.
 
