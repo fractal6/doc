@@ -21,7 +21,7 @@ nav:
   - Introduction: index.md
   - Role & Circle: circle.md
   - Tension: tension.md
-  - Quick Help: shorts/help.md
+  - Quick Help: _shorts/help.md
 
 theme:
   name: material
