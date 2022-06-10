@@ -13,13 +13,13 @@
 * ses domaines (optionel) : quelle propriétés/ressources il contrôle.
 * ses politiques (optionel) : les regles d'acces à ses ressources.
 
-**Tension** : distance entre la ou l'on est et là l'on veut aller. Une tension peut être utilisée par exemple pour partager et gérer des tâches, des questions ou des idées. Une tension, comme un courrier électronique, a un émetteur et un destinataire (un rôle ou un cercle).
+**Tension** : Un fil de communication dans Fractale. Une tension peut être utilisée par exemple pour partager et gérer des tâches, des questions ou des idées. Elle a une destination qui peut être soit un rôle soit un cercle de l'organisation. Chaque tension nouvellement créé notifiera les membres en fonction de sa destination.
 Une tension appartient à un type en fonction du sujet qu'elle traite. Il y a quatre types différents :
 
-* Opérationnelle : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
-* Gouvernance : concernant la structure de l'organisation, ses mandats etc.
-* Entraide : pour les demandes d'aide, questions ou clarifications.
-* Alerte: Pour les alertes, annonce genéral ou chaque membre sous le cercle alerté recevra une notification (niveau de coordinateur requis pour déclencher).
+* **Opérationnelle** (defaut) : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
+* **Gouvernance** : concernant la structure de l'organisation, ses mandats etc.
+* **Help** : pour les demandes d'aide, questions ou clarifications.
+* **Alert**: Pour les alertes, annonce genéral ou chaque membre sous le cercle alerté recevra une notification (niveau de coordinateur requis pour déclencher).
 
 
 ## Créer une organisation
