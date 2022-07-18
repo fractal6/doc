@@ -1,6 +1,6 @@
 ## Definitions
 
-**Organisation** (fractal): a group of humans sharing a common purpose (the root circle) organised in autonomous roles and sub-circles.
+**Organisation** (fractal): a group of humans sharing a common purpose (the root or anchor circle) organised in autonomous roles and sub-circles.
 
 **Role**: a function that can be linked to a member with a given mandate.
 
@@ -13,7 +13,7 @@
 * its domains (optional): what properties/resources it controls.
 * its policies (optional): the rules of access to its resources.
 
-**Tension**: A communication thread in Fractale. A tension can be used for example to track and keep record of tasks, issues or ideas. It has a destination which can be either a **role** or **circle**. Each newly created tension will notify users according to where its destination.
+**Tension**: A communication thread in Fractale. A tension can be used for example to track and keep record of tasks, issues, questions, propositions and so on. It has a destination which can be either a **role** or **circle**. Each newly created tension will notify users according to its destination.
 
 A tension belong to a type according to its topic. There are four different types:
 
@@ -92,7 +92,8 @@ New member can be invite to join your organisation. You can invite either from t
 
 ## Create tension
 
-In the **overview panel**, click on the plus (+) button on the right of the search bar. In the windows that opens, click on the **new tension** button. The receiver of the tension will be the current focused circle.
+Click on the plus button located in the right bottom corner of the screen.
+Or in the togglable tree menu, click on the plus(+) button that appear when hovering a line.
 
 You can also create a tension by clicking on the tooltip that appear when you hover a role/circle in the organisation map.
 
@@ -133,7 +134,7 @@ If you have sufficient rights, you can edit the following properties of a role:
 * its name
 * its mandate
 * its authority
-* its first-link (invite or leave)
+* its lead link (invite or leave)
 
 To edit those properties, open the panel by clicking on either the tooltip (the triple dot on the right) that appear above each circle in the organisation map (**overview tab**), or from the side pane of the tension related to this role.
 

@@ -1,6 +1,6 @@
 ## Définitions
 
-**organisation** (fractale) : un groupe d'humains partageant une raison d'être commune (cercle racine) composé de roles et de cercles.
+**organisation** (fractale) : un groupe d'humains partageant une raison d'être commune (cercle racine ou ancre) composé de roles et de cercles.
 
 **Role** : une fonction réalisé par un membre avec un mandat donné.   
 
@@ -13,7 +13,7 @@
 * ses domaines (optionel) : quelle propriétés/ressources il contrôle.
 * ses politiques (optionel) : les regles d'acces à ses ressources.
 
-**Tension** : Un fil de communication dans Fractale. Une tension peut être utilisée par exemple pour partager et gérer des tâches, des questions ou des idées. Elle a une destination qui peut être soit un rôle soit un cercle de l'organisation. Chaque tension nouvellement créé notifiera les membres en fonction de sa destination.
+**Tension** : Un fil de communication dans Fractale. Une tension peut être utilisée par exemple pour partager et gérer des tâches, questions, propositions etc. Elle a une destination qui peut être soit un rôle soit un cercle de l'organisation. Chaque tension nouvellement créé notifiera les membres en fonction de sa destination.
 Une tension appartient à un type en fonction du sujet qu'elle traite. Il y a quatre types différents :
 
 * **Opérationnelle** (defaut) : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
