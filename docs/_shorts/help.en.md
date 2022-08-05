@@ -1,6 +1,6 @@
 ## Definitions
 
-**Organisation** (fractal): a group of humans sharing a common purpose (the root or anchor circle) organised in autonomous roles and sub-circles.
+**Organization** (fractal): a group of humans sharing a common purpose (the root or anchor circle) organised in autonomous roles and sub-circles.
 
 **Role**: a function that can be linked to a member with a given mandate.
 
@@ -17,15 +17,15 @@
 
 A tension belong to a type according to its topic. There are four different types:
 
-* **Operational**: A general category of tension which can be a task, an issue or whatever that need to be share in the organisation.
-* **Governance**: concerning the structure of the organisation its mandates etc.
+* **Operational**: A general category of tension which can be a task, an issue or whatever that need to be share in the organization.
+* **Governance**: concerning the structure of the organization its mandates etc.
 * **Help**: for help requests, questions or clarifications.
 * **Alert**: for alert requests, this are used for global announcement. All the member behind the circle alerted will be notified (Coordinator level to trigger).
 
 
-## Create organisation
+## Create organization
 
-Click on the plus (+) button in the top right corner of the page. Then click on the **Create new organisation** button.
+Click on the plus (+) button in the top right corner of the page. Then click on the **Create new organization** button.
 
 ## Governance process
 
@@ -59,11 +59,11 @@ In the agile mode, all roles have the following rights within their circles:
 Note: the rights of a role associated with a circle are inherited in sub-circles that do not have roles.
 
 
-## Organisation navigation
+## Organization navigation
 
-On the organisation overview tab, you can navigate in your organisation by clicking a role or circle. The **focus** will be refreshed as well as:
+On the organization overview tab, you can navigate in your organization by clicking a role or circle. The **focus** will be refreshed as well as:
 
-* the organisation path in the header of the page indicating your current localisation
+* the organization path in the header of the page indicating your current localisation
 * the mandate in the current circle
 * the recent activities of the circle
 
@@ -79,7 +79,7 @@ Note that labels are defined at the circle level. The labels that can be attach 
 
 In the **settings panel**, the *roles menu* allow you to create, edit and remove roles.
 
-Once a template role is created, you will be able to use it when you create a new role in your organisation
+Once a template role is created, you will be able to use it when you create a new role in your organization
 
 This is useful when you want to create multiple identical roles in different circles, that share the same mandate.
 
@@ -88,14 +88,14 @@ Note that template roles are defined at the circle level. When you create a role
 
 ## Invite member
 
-New member can be invite to join your organisation. You can invite either from the **members** tab, by clicking the invite button, or from the invite button in the **overview** organisation map. You can also invite a new member to join a role you have created, although you can invite people that are already member of your organisation to join a role 
+New member can be invite to join your organization. You can invite either from the **members** tab, by clicking the invite button, or from the invite button in the **overview** organization map. You can also invite a new member to join a role you have created, although you can invite people that are already member of your organization to join a role 
 
 ## Create tension
 
 Click on the plus button located in the right bottom corner of the screen.
 Or in the togglable tree menu, click on the plus(+) button that appear when hovering a line.
 
-You can also create a tension by clicking on the tooltip that appear when you hover a role/circle in the organisation map.
+You can also create a tension by clicking on the tooltip that appear when you hover a role/circle in the organization map.
 
 
 ## Close/Reopen tension
@@ -124,7 +124,7 @@ In the **overview panel**, click on the plus (+) button on the right of the sear
 
 Note1: The role will be created inside the current focused circle.  
 Note2: For each role created, there is a governance tension that is co-created automatically and that allows to consult and edit the history of modifications of the role.  
-Note3: If you click **Submit tension** instead of **Create Role**, only a governance tension will be created but the role won't be added to your organisation. You can still edit and add it later.  
+Note3: If you click **Submit tension** instead of **Create Role**, only a governance tension will be created but the role won't be added to your organization. You can still edit and add it later.  
 
 
 ## Edit role
@@ -136,7 +136,7 @@ If you have sufficient rights, you can edit the following properties of a role:
 * its authority
 * its lead link (invite or leave)
 
-To edit those properties, open the panel by clicking on either the tooltip (the triple dot on the right) that appear above each circle in the organisation map (**overview tab**), or from the side pane of the tension related to this role.
+To edit those properties, open the panel by clicking on either the tooltip (the triple dot on the right) that appear above each circle in the organization map (**overview tab**), or from the side pane of the tension related to this role.
 
 
 ## Archive role
@@ -163,7 +163,7 @@ In the Overview panel, click on the plus (+) button on the right of the search b
 
 Note1: The circle will be created inside the current focused circle.  
 Note2: For each circle created, there is a governance tension that is co-created automatically and that allows to consult and edit the history of modifications of the circle.  
-Note3: If you click **Submit tension** instead of **Create Circle**, only a governance tension will be created but the circle won't be added to your organisation. You can still edit and add it later.  
+Note3: If you click **Submit tension** instead of **Create Circle**, only a governance tension will be created but the circle won't be added to your organization. You can still edit and add it later.  
 
 
 ## Edit circle
