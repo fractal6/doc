@@ -2,7 +2,7 @@
 
 ## Definition
 
-A ***"Role"*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
+From the [Holacracy](https://github.com/holacracyone) definition, a  ***"Role"*** is an organizational construct that a person can fill and then energize on behalf of the Organization. Whoever fills a Role is a ***"Role Lead"*** for that Role.
 
 A Role definition consists of a descriptive name and one or more of the following:
 
@@ -14,29 +14,29 @@ A Role may also hold ***"Policies"***, which are grants or constraints of author
 
 ## Membership
 
-In **Fractale**, you can be part of an organisation in different ways that characterized different type of membership. Your membership affects your rights and what resources you can access.  
+In **Fractale**, you can be part of an organization in different ways that characterized different type of membership. Your membership affects your rights and what resources you can access.  
 
 The membership of an user can be one of the following: 
 
-### Guest
+#### Guest
 
-When an user is invited to an organisation, and do not play any specific role, they will be set up as a **Guest**. **Guest** have limited rights.
+When an user is invited to an organization, and do not play any specific role, they will be set up as a **Guest**. **Guest** have limited write rights.
 
-### Member
+#### Member
 
-If you play at least one role in an organisation, you will be automatically granted as **Member**. The level of authority and rights of a Member are determined by the role they play.
+If you play at least one role in an organization, you will be automatically granted as **Member**. The rights of a Member are determined by the role they play.
 
-### Owner
+#### Owner
 
-When you create a new organisation, you are automatically set up as an **Owner** of this organisation. **Owners** have the maximal level authority of rights in the organisation.
+When you create a new organization, you are automatically set up as an **Owner** of this organization. **Owners** have the maximal level authority .
 
 ## Authority
 
-In addition to membership, a user can have one or several roles in a organisation. Each role is defined with a level of authority that affect the rights and the resources accessible by the role leader.  
+In addition to membership, a user can have one or several roles in a organization. Each role is defined with a level of authority that affect the rights and the resources accessible by the role leader.  
 
 The authority of a role can be one of the following: 
 
-### Peer
+#### Peer
 
 A Peer role has the following rights within its circle:
 
@@ -45,7 +45,7 @@ A Peer role has the following rights within its circle:
 * close its own tensions.
 * propose draft for mandates edition.
 
-### Coordinator
+#### Coordinator
 
 A Coordinator role has the same rights of a Peer plus the following rights within its circle (the circle where the role is defined):
 
@@ -59,7 +59,7 @@ A Coordinator role has the same rights of a Peer plus the following rights withi
 * publish mandate modifications.
 
 
-### Bot
+#### Bot
 
 *Work in progress*.
 
@@ -68,4 +68,11 @@ A Coordinator role has the same rights of a Peer plus the following rights withi
 # Circles
 
 
-A ***"Circle"*** is a container for organizing Roles and Policies around a common Purpose.
+A ***"Circle"*** is a container for organizing Roles,  Policies and sub-Circles around a common purpose.
+
+The visibility of a circle determine who have access to its content, i.e the tensions that target it.
+
+* a **Public** circle means that the circle content is publicly accessible. 
+* a **Private** circle means that only members of an organisation has access to it.
+* a **Secret** circle means only roles inside that circle has access to it.
+

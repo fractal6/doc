@@ -30,6 +30,7 @@ It is inspired by several ideas and initiatives [^1]:
 <!--* The [liberated company](https://en.wikipedia.org/wiki/Liberated_company). -->
 * Collaborative tool for developer such as [Gitlab](https://en.wikipedia.org/wiki/GitLab){:target="_blank"} and [Github](https://github.com){:target="_blank"}.
 * The way living organism are designed, made up of organs that are simultaneously interdependent *and* autonomous but act towards a common purpose and capable of adaptation according to inner and outer tensions.
+* And some real-life experiences.
 
 [^1]: But note that we do not pretend to conform to any of this solution and rather aims to be adaptable to a plurality of approaches.
 
