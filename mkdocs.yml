@@ -2,7 +2,7 @@ site_name: Fractale documentation
 site_url: https://doc.fractale.co/
 repo_url: https://gitlab.com/fractal6/doc
 repo_name: 'Source'
-copyright: 'Copyright &copy; 2020 - 2022 The Fractale Team'
+copyright: 'Copyright &copy; 2022 The Fractale Team'
 
 extra:
   #homepage: https://fractale.co
