@@ -1,6 +1,6 @@
 site_name: Fractale documentation
 site_url: https://doc.fractale.co/
-repo_url: https://gitlab.com/fractal6/doc
+repo_url: https://github.com/fractal6/doc
 repo_name: 'Source'
 copyright: 'Copyright &copy; 2022 The Fractale Team'
 
@@ -11,8 +11,8 @@ extra:
     - icon: custom/logo
       link: https://fractale.co
       name: fractale.co
-    - icon: fontawesome/brands/gitlab
-      link: https://gitlab.com/fractal6
+    - icon: fontawesome/brands/github
+      link: https://github.com/fractal6/doc
     - icon: material/chat-outline
       link: https://matrix.to/#/#fractal6:matrix.org
       name: Chat on matrix
