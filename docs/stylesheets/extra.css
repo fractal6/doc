@@ -1,0 +1,5 @@
+.md-content > article > p,
+.md-content > article > ul,
+.md-content > article > ol {
+		font-size: 17px !important;
+}

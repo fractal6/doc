@@ -4,22 +4,26 @@
 
 **Role** : une fonction réalisé par un membre avec un mandat donné.   
 
-**Circle** : ensemble de role et de sous-cercles (équipe, groupe etc).  
+**Circle** : ensemble de role et de sous-cercles (équipe, groupe etc) avec un mandat donné.  
 
 **Mandat** : document qui définit la fonction d'un role ou d'un cercle en explicitant :
 
 * sa raison d'être : pourquoi il existe
 * ses responsabilités (optionel) : quelle sont les attentes de ce role/cercle.
-* ses domaines (optionel) : quelle propriétés/ressources il contrôle.
 * ses politiques (optionel) : les regles d'acces à ses ressources.
+* ses domaines (optionel) : quelle propriétés/ressources il contrôle.
 
 **Tension** : Un fil de communication dans Fractale. Une tension peut être utilisée par exemple pour partager et gérer des tâches, questions, propositions etc. Elle a une destination qui peut être soit un rôle soit un cercle de l'organisation. Chaque tension nouvellement créé notifiera les membres en fonction de sa destination.
-Une tension appartient à un type en fonction du sujet qu'elle traite. Il y a quatre types différents :
+Une tension appartient à un type en fonction du sujet qu'elle traite. Il y a cinq types différents :
 
-* **Opérationnelle** (defaut) : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
-* **Gouvernance** : concernant la structure de l'organisation, ses mandats etc.
-* **Help** : pour les demandes d'aide, questions ou clarifications.
-* **Alert**: Pour les alertes, annonce genéral ou chaque membre sous le cercle alerté recevra une notification (niveau de coordinateur requis pour déclencher).
+* **Opérationnelle** : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans l'organisation.
+* **Gouvernance** : Concernant la structure de l'organisation, ses mandats etc.
+* **Help** : Pour les demandes d'aide, questions ou clarifications.
+* **Alert**: Pour les alertes, communication interne.
+* **Annonce**: Pour les annonces, communication externe.
+
+Chaque type de tension a une politique de notification et une politique d'accès limitant respectivement  qui sera notifié lors de la création de la tension et qui peut le faire.
+Voir [la section tension](https://doc.fractale.co/tension) pour en apprendre plus.
 
 
 ## Créer une organisation

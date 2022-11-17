@@ -3,6 +3,9 @@ site_url: https://doc.fractale.co/
 repo_url: https://github.com/fractal6/doc
 repo_name: 'Source'
 copyright: 'Copyright &copy; 2022 The Fractale Team'
+extra_css:
+  - stylesheets/extra.css
+
 
 extra:
   #homepage: https://fractale.co

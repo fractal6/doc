@@ -4,7 +4,7 @@ LANGS := en fr
 dev:
 	mkdocs serve -a localhost:8008
 
-bootstrap:
+install:
 	pip install -r requirements.txt	
 
 quickdoc: $(LANGS)

@@ -1,11 +1,12 @@
 # Welcome to Fractale documentation
 
-**Fractale** ([fractale.co](https://fractale.co){:target="_blank"}) is a platform that provides tools and infrastructures to support organisations in the process of self-organisation. That means a shift from pyramidal management with subordination relationships towards fractal circles with relationships based on trust and peer to peer commitment.
+**Fractale** ([fractale.co](https://fractale.co){:target="_blank"}) is a platform for self-organization. That means a shift from pyramidal management with subordination relationships towards fractal circles with relationships based on trust and peer to peer commitment.
 
-The platform offers a radical transparency of the structure of the organisation, allows members to communicate through a tensions publishing system, and organisations to evolve. Its goal 
-is to facilitate organisations to achieve their goals through mutual aid and collective intelligence.
+It is designed around the concept that an organization can be represented as a tree and should follow principles of transparency, governance decentralization and authority distribution. A tree divides in branches and form leaves, likewise an organization divides in **Circles** that can have **Roles**. Both, circles and roles have an associated descriptive document, called **Mandate**, intended to define its purpose and operating rules. Finally, the communication inside the organization is done through **Tensions**, and make the link between users and organizations. You can think of a tension as an email, but more structured and more powerful.
 
-To do so, the platform focus on three core principles:
+The platform offers a radical transparency of the structure of the organisation, allows members to communicate through a tensions publishing system, and organisations to evolve. Its goal is to facilitate organisations to achieve their goals through mutual aid and collective intelligence.
+
+To do so, the platform focus on three core design principles:
 
 * **Transparency**: each member of an organisation is able to see the organisation structure and its components according to their roles: [circles, roles, mandates](circle), [tensions and journals](tension).
 * **Tension-driven** decision making: Each member of the organisation can communicate through [tensions](tension) who can be collectively discussed in order to be solved.
@@ -13,12 +14,12 @@ To do so, the platform focus on three core principles:
 
 Organisations are seen like graphs, or trees, which are akin to living entities and where their members can intuitively visit them, and interact with, in order to:
 
-* quickly understand who is doing what.
-* quickly understand what is to be done.
-* quickly detect and respond to tensions.
-* quickly find the right people to contact to get information.
-* facilitate the on-boarding flow of newcomers.
-* be robust to growth and reorganization.
+* Quickly understand who is doing what.
+* Quickly understand what is to be done.
+* Quickly detect and respond to tensions.
+* Quickly find the right people to contact to get information.
+* Facilitate the on-boarding flow of newcomers.
+* Be robust to growth and reorganization.
 
 
 It is inspired by several ideas and initiatives [^1]:
