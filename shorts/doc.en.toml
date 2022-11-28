@@ -24,8 +24,8 @@ content = """
 
 A tension belong to a type according to its topic. There are five different types:
 
-* **Operational**: A general category of tension which can be a task, an issue or whatever that need to be share in the organization.
-* **Governance**: Concerning the structure of the organization its mandates etc.
+* **Operational**: A general category of tension for everyday activities. it could be a task, an issue or whatever that need to be share in an organization.
+* **Governance**: For topics related to governance, organizational structure, mandates, etc.
 * **Help**: For help requests, questions or clarifications.
 * **Alert**: For alert requests, internal communication.
 * **Announcement**: For announcement, external communication.

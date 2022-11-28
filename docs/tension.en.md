@@ -14,8 +14,8 @@ Twitter use tweets, Gmail use e-mails, Fractale use tensions. A tension is a gen
 Philosophically, a tension is defined as the distance between where you are and where you want to be.
 A tension belong to a certain type according to the problem to deal with. There are five different types:
 
-* **<g>Operational</g>**: A general category of tension which can be a task, an issue or whatever that need to be share in an organization.
-* **<b>Governance</b>**: Concerning the structure and the governance of the organization, i.e the circle, roles and mandates.
+* **<g>Operational</g>**: A general category of tension for everyday activities. it could be a task, an issue or whatever that need to be share in an organization.
+* **<b>Governance</b>**: For topics related to governance, organizational structure, mandates, etc.
 * **<o>Help</o>**: For help requests, questions or clarifications.
 * **<r>Alert</r>**: For alert requests, internal communication.
 * **<pr>Announcement</pr>**: For announcement, external communication.

@@ -14,8 +14,8 @@ Twitter utilise des tweets, Gmail utilise des e-mails, Fractale utilise des tens
 Philosophiquement, une tension est définie comme la distance entre l'endroit où vous êtes et celui où vous voulez être.
 Une tension appartient à un certain type en fonction du problème à traiter. Il existe cinq types différents :
 
-* **<g>Opérationnel</g>** : Une catégorie générale de tension qui peut être une tâche, un problème ou tout ce qui doit être partagé dans une organisation.
-* **<b>Gouvernance</b>** : Concernant la structure et la gouvernance de l'organisation, c'est-à-dire le cercle, les rôles et les mandats.
+* **<g>Opérationnel</g>** : Une catégorie générale de tension pour les activités quotidiennes. Cela peut être une tâche, un problème ou tout ce qui doit être partagé dans une organisation.
+* **<b>Gouvernance</b>** : Pour les sujets relatifs à la gouvernance, la structure de l'organisation, les mandats, etc.
 * **<o>Help</o>** : Pour les demandes d'aide, les questions ou les clarifications.
 * **<r>Alert</r>** : Pour les alertes, communication interne.
 * **<pr>Annonce</pr>** : Pour les annonces, communication externe.
