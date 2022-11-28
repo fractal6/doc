@@ -34,5 +34,6 @@ Lorsqu'une tension est créée, les notifications seront envoyées à un ensembl
 
 - Pour les tensions **Opérationnel**, **Gouvernance** et **Aide**, les notifications seront envoyées aux utilisateurs qui ont un rôle (lien principal) dans le cercle ciblé.
 - Pour les tensions **Alerte**, les notifications seront envoyées à tous les membres en dessous du cercle ciblé (y compris tous les sous-cercles de manière récursive). Si le destinataire est le cercle racine, tous les membres, y compris [Guest](/circle/#guest), seront notifiés. Sinon, cela inclura les liens principaux des rôles.
+- Pour les tensions **Annonce**, les notifications seront envoyées à tous les utilisateurs qui suivent l'organisation.
 
 Une fois qu'une tension est créée, elle dispose d'un fil de discussion avec une liste d'utilisateurs abonnés. Les utilisateurs peuvent s'abonner ou se désabonner à une tension s'ils ont un accès en lecture à celle-ci. Les utilisateurs abonnés seront informés des nouveaux commentaires ou des changements de statut. Lors de la création d'une tension, seul son auteur est abonné par défaut.
