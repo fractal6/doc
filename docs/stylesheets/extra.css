@@ -3,3 +3,7 @@
 .md-content > article > ol {
 		font-size: 17px !important;
 }
+
+.md-header__source {
+  display: none;
+}
