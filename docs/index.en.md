@@ -33,5 +33,9 @@ It is inspired by several ideas and initiatives [^1]:
 * The way living organism are designed, made up of organs that are simultaneously interdependent *and* autonomous but act towards a common purpose and capable of adaptation according to inner and outer tensions.
 * And some real-life experiences.
 
-[^1]: But note that we do not pretend to conform to any of this solution and rather aims to be adaptable to a plurality of approaches.
+You are welcome to try and build your organisation on [Fractale](https://fractale.co). We invite you to contact us is you need help or have questions. Feedback are extremly important for us in order to drive the platform in accordance to real-word needs and deliver the best experience to improve collective intelligence.
+
+Finally, Fractale is a free and open-source project licensed under AGPLv3. Our repository is available and open to contribution on Github: [https://github.com/fractal6](https://github.com/fractal6).
+
+[^1]: But note that we do not pretend to conform to any of this solution and rather aims to be adaptable to a plurality of organizational approaches.
 
