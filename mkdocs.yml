@@ -25,6 +25,7 @@ nav:
   - Role & Circle: circle.md
   - Tension: tension.md
   - Quick Help: _shorts/help.md
+  - Developer FAQ: faq_dev.md
 
 theme:
   name: material
@@ -64,3 +65,5 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
+  - toc:
+      baselevel: 1
