@@ -1,6 +1,6 @@
 ## Definitions
 
-**Organisation**: a group of humans sharing a common purpose (the root or anchor circle) organised in autonomous roles and sub-circles.
+**Organisation** (fractal): a group of humans sharing a common purpose (the root or anchor circle) organised in autonomous roles and sub-circles.
 
 **Role**: a function that can be linked to a member with a given mandate.
 
