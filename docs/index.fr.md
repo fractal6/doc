@@ -26,7 +26,7 @@ Il s'inspire de plusieurs idées et initiatives [^1] :
 
 * L'[Holacracy](https://en.wikipedia.org/wiki/Holacracy){:target="_blank"} et sa [constitution](https://www.holacracy.org/constitution)
 * La [Sociocratie](https://en.wikipedia.org/wiki/Sociocracy){:target="_blank"}
-* L'[Organisation Sarcelle](https://reinventingorganizationswiki.com){:target="_blank"}
+* L'[Organisation Sarcelle](https://reinventingorganisationswiki.com){:target="_blank"}
 * La [Stigmergie](https://wiki.p2pfoundation.net/Stigmergy){:target="_blank"}
 <!--* La [société libérée](https://en.wikipedia.org/wiki/Liberated_company). -->
 * Outil collaboratif pour développeur tel que [Gitlab](https://en.wikipedia.org/wiki/GitLab){:target="_blank"} et [Github](https://github.com){:target="_blank"}.

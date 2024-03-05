@@ -14,8 +14,8 @@ Twitter use tweets, Gmail use e-mails, Fractale use tensions. A tension is a gen
 Philosophically, a tension is defined as the distance between where you are and where you want to be.
 A tension belong to a certain type according to the problem to deal with. There are five different types:
 
-* **<g>Operational</g>**: A general category of tension for everyday activities. it could be a task, an issue or whatever that needs to be share in an organization.
-* **<b>Governance</b>**: For topics related to governance, organizational structure, mandates, etc.
+* **<g>Operational</g>**: A general category of tension for everyday activities. it could be a task, an issue or whatever that needs to be share in an organisation.
+* **<b>Governance</b>**: For topics related to governance, organisational structure, mandates, etc.
 * **<o>Help</o>**: For help requests, questions or clarifications.
 * **<r>Alert</r>**: For alert requests, internal communication.
 * **<pr>Announcement</pr>**: For announcement, external communication.
@@ -34,7 +34,7 @@ When a tension is created, notifications will be sent to a set of user which dep
 
 - For **Operational**, **Governance** and **Help** tensions, notifications will be sent to users who have a role (lead link) in the targeted circle.
 - For **Alert** tensions, notifications will be sent to all members below the targeted circle (including all sub-circles recursively). If the recipient is the root circle, all member including [Guest](/circle/#guest) will be notified. Otherwise, this will include the roles lead links.
-- For **Announcement** tensions, notifications will be sent to all users that watch the organization.
+- For **Announcement** tensions, notifications will be sent to all users that watch the organisation.
 
 
 Once a tension is created, it has a discussion thread with a list of subscribed users. Users can subscribe or unsubscribe to a tension if they have read access to it. A subscribed users will be notify of new comments or status changes. At tension creation only its author is subscribed by default.
