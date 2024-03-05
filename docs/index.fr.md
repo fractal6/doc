@@ -8,9 +8,9 @@ La plateforme offre une transparence radicale de la structure de l'organisation,
 
 Pour ce faire, la plateforme se concentre sur trois principes de conception fondamentaux :
 
-* **Transparence** : chaque membre d'une organisation est en mesure de voir la structure de l'organisation et ses composants en fonction de ses rôles : [cercles, rôles, mandats](cercle), [tensions et journaux](tension).
-* Prise de décision basée sur les **tensions** : Chaque membre de l'organisation peut communiquer par le biais de [tensions](tension) qui peuvent être discutées collectivement afin d'être résolues.
-* **Adaptation** : les organisations sont dynamiques et évoluent grâce à un dialogue entre les institutions actuelles et les tensions. Cela se traduit par la capacité à [modifier la structure de l'organisation de manière incrémentale](_shorts/help).
+* **Transparence** : chaque membre d'une organisation est en mesure de voir la structure de l'organisation et ses composants en fonction de ses rôles : [cercles, rôles, mandats](circle.md), [tensions et journaux](tension.md).
+* Prise de décision basée sur les **tensions** : Chaque membre de l'organisation peut communiquer par le biais de [tensions](tension.md) qui peuvent être discutées collectivement afin d'être résolues.
+* **Adaptation** : les organisations sont dynamiques et évoluent grâce à un dialogue entre les institutions actuelles et les tensions. Cela se traduit par la capacité à [modifier la structure de l'organisation de manière incrémentale](_shorts/help.md).
 
 Les organisations sont perçues comme des graphes ou des arbres, qui s'apparentent à des entités vivantes et que leurs membres peuvent intuitivement visiter et avec lesquels ils peuvent interagir afin de :
 

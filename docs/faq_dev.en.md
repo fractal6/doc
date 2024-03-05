@@ -30,7 +30,7 @@ In order to change the default port using by [Dgraph](https://dgraph.io/docs/dep
 
 - Change the `port_offset` in **both** config files `config-zero.yml` and `config-alpha.yml` (it will increment the value of the port with the value who choose).
 - The `port_offset` value should be the same for both file (otherwise Dgraph will complain because of unreachable nodes).
-- Increment the port value of `my` and `zero` (in both Dgraph's configuration file) as well as `port_graphql` and `port_grpc` in the [backend]((https://github.com/fractal6/fractal6.go)) configuration file `config.toml`, accordingly to the offset you have chosen.
+- Increment the port value of `my` and `zero` (in both Dgraph's configuration file) as well as `port_graphql` and `port_grpc` in the [backend](https://github.com/fractal6/fractal6.go) configuration file `config.toml`, accordingly to the offset you have chosen.
 
 Note: Eventually remove or change the path for the data (`_data`) if you change the port while you already have used or launched Dgraph.
 

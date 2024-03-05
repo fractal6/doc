@@ -8,9 +8,9 @@ The platform offers a radical transparency of the structure of the organisation,
 
 To do so, the platform focus on three core design principles:
 
-* **Transparency**: each member of an organisation is able to see the organisation structure and its components according to their roles: [circles, roles, mandates](circle), [tensions and journals](tension).
-* **Tension-driven** decision making: Each member of the organisation can communicate through [tensions](tension) who can be collectively discussed in order to be solved.
-* **Adaptation**: organisations are dynamic and evolve through a dialogue between the current institutions and the tensions. This translates by the ability to [modify the structure of the organisation incrementally](_shorts/help).
+* **Transparency**: each member of an organisation is able to see the organisation structure and its components according to their roles: [circles, roles, mandates](circle.md), [tensions and journals](tension.md).
+* **Tension-driven** decision making: Each member of the organisation can communicate through [tensions](tension.md) who can be collectively discussed in order to be solved.
+* **Adaptation**: organisations are dynamic and evolve through a dialogue between the current institutions and the tensions. This translates by the ability to [modify the structure of the organisation incrementally](_shorts/help.md).
 
 Organisations are seen like graphs, or trees, which are akin to living entities and where their members can intuitively visit them, and interact with, in order to:
 

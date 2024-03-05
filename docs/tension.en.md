@@ -33,7 +33,7 @@ Users can be assigned to tensions if they are in charge of them.
 When a tension is created, notifications will be sent to a set of user which depends on the type of tension created:
 
 - For **Operational**, **Governance** and **Help** tensions, notifications will be sent to users who have a role (lead link) in the targeted circle.
-- For **Alert** tensions, notifications will be sent to all members below the targeted circle (including all sub-circles recursively). If the recipient is the root circle, all member including [Guest](/circle/#guest) will be notified. Otherwise, this will include the roles lead links.
+- For **Alert** tensions, notifications will be sent to all members below the targeted circle (including all sub-circles recursively). If the recipient is the root circle, all member including [Guest](circle.md#guest) will be notified. Otherwise, this will include the roles lead links.
 - For **Announcement** tensions, notifications will be sent to all users that watch the organisation.
 
 

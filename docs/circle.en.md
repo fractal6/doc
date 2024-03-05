@@ -1,8 +1,8 @@
 ## Circles
 
-A ***"Circle"*** is a container for organizing Roles, Policies and sub-Circles around a common purpose.
+A ***"Circle"*** is a space for organizing Roles, Policies and sub-Circles around a common purpose.
 
-The visibility of a circle determine who have access to its content, i.e the tensions that target it.
+The visibility of a circle determine who have access to its content.
 
 * a **Public** circle means that the circle content is publicly accessible. 
 * a **Private** circle means that only members of an organisation has access to it.
@@ -23,11 +23,11 @@ A Role may also hold ***"Policies"***, which are grants or constraints of author
 
 ## Membership
 
-In **Fractale**, you can be part of an organisation in different ways that characterized different type of membership. Your membership affects your rights and what resources you can access.  
+In **Fractale**, you can be part of an organisation in different ways that characterized different type of membership. Your membership affects your rights and what resources you can access inside it.  
 
 The membership of an user can be one of the following: 
 
-- **Guest**: When an user is invited to an organisation, and do not play any specific role, they will be set up as a **Guest**. **Guest** have limited write rights.
+- **Guest**: When an user is invited to an organisation, and do not play any specific role, they will be set up as a **Guest**. **Guest** have limited access rights.
 - **Member**: If you play at least one role in an organisation, you will be automatically granted as **Member**. The rights of a Member are determined by the role they play.
 - **Owner**: When you create a new organisation, you are automatically set up as an **Owner** of this organisation. **Owners** have the maximal level authority .
 
@@ -60,19 +60,18 @@ A Coordinator role has the same rights of a Peer plus the following rights withi
 * publish mandate modifications.
 
 
-#### Bot
-
-*Work in progress*.
-
 ## Scope of authority
 
 The authority given by a role (and so the rights that a given user has with this authority) exists in a scope delimited by circles, as follows:
 
 - If a circle has no Coordinator role, then all Coordinators in parent circles have authority on that circle (ie can edit it).
 - if a circle has one or more Coordo roles, only they (+ the Owner role) can edit that circle.
+## Governance
 
+Circles are defined with a governance mode among:
+- **Coordinated**
+- **Agile**
 
+The **Coordinated** mode is the one used by default when creating a circle, but this remains editable at creation or afterwards. It corresponds to the difference in authority between the **Peer** and **Coordinator** specified in the previous section.
 
-
-
-
+The **Agile** model allows the creation of circles in which the Peer role has the same authority as the Coordinators within the circle. This is useful when you want to give extended rights to members in a circle without them being a coordinator within the organization.
