@@ -2,8 +2,6 @@
 [org]
 name = "Organisations"
 
-[[org.tasks]]
-
 [org.tasks.definition]
 header = "Definitions"
 content = """
@@ -107,8 +105,6 @@ content = "New member can be invite to join your organisation. You can invite ei
 [tension]
 name = "Tensions"
 
-[[tension.tasks]]
-
 [tension.tasks.create]
 header = "Create tension"
 content = """
@@ -141,8 +137,6 @@ You can also add labels when creating a tension with the labels button at the bo
 
 [role]
 name = "Roles"
-
-[[role.tasks]]
 
 [role.tasks.create]
 header = "Create role"
@@ -191,8 +185,6 @@ Note: you can access the tension page of a role by clicking on the Edit button i
 
 [circle]
 name = "Circles"
-
-[[circle.tasks]]
 
 [circle.tasks.create]
 header = "Create circle"

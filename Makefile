@@ -6,6 +6,7 @@ dev:
 
 install:
 	pip install -r requirements.txt	
+	snap install yq
 
 quickdoc: $(LANGS)
 
@@ -14,9 +15,10 @@ $(LANGS):
 	# pip install wildq
 	# apt install jq
 	# Make json doc for fractale.co help
-	wildq -M -i toml -o json '.[] | {name:.name, tasks:.tasks[]|flatten }' shorts/doc.$@.toml > _data/quickdoc.$@.json_
-	jq -s "." _data/quickdoc.$@.json_ > _data/quickdoc.$@.json
-	rm -f _data/quickdoc.$@.json_
+	yq -o json   '.' shorts/doc.$@.toml > _data/quickdoc.$@.json
+	#wildq -M -i toml -o json '.[] | {name:.name, tasks:.tasks[]|flatten }' shorts/doc.$@.toml > _data/quickdoc.$@.json_
+	#jq -s "." _data/quickdoc.$@.json_ > _data/quickdoc.$@.json
+	#rm -f _data/quickdoc.$@.json_
 
 	# json doc to markdown
 	# @debug: main level are removed because only one main title "#" per document, 

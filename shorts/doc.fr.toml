@@ -1,8 +1,6 @@
 [org]
 name = "Organisation"
 
-[[org.tasks]]
-
 [org.tasks.definition]
 header = "Définitions"
 content = """
