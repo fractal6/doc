@@ -5,20 +5,18 @@ dev:
 	mkdocs serve -a localhost:8008
 
 install:
-	pip install -r requirements.txt	
+	apt install jq
 	snap install yq
+	pip install -r requirements.txt	
 
 quickdoc: $(LANGS)
 
 $(LANGS):
 	# requirements:
-	# pip install wildq
-	# apt install jq
 	# Make json doc for fractale.co help
-	yq -o json   '.' shorts/doc.$@.toml > _data/quickdoc.$@.json
-	#wildq -M -i toml -o json '.[] | {name:.name, tasks:.tasks[]|flatten }' shorts/doc.$@.toml > _data/quickdoc.$@.json_
-	#jq -s "." _data/quickdoc.$@.json_ > _data/quickdoc.$@.json
-	#rm -f _data/quickdoc.$@.json_
+	yq -o json  '.' shorts/doc.$@.toml | \
+		jq 'to_entries[] | {name: .value.name, tasks: [.value.tasks | to_entries[] | {name: .key, header: .value.header, content: .value.content}]}' | \
+		jq -s > _data/quickdoc.$@.json
 
 	# json doc to markdown
 	# @debug: main level are removed because only one main title "#" per document, 

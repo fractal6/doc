@@ -1,6 +1,6 @@
 ## Definitions
 
-**Organisation** (fractal): a group of humans sharing a common purpose (the root or anchor circle) organised in autonomous roles and sub-circles.
+**Organisation** (fractal): a group of humans sharing a common purpose (the root or anchor circle) organised in autonomous roles and sub-circles.  
 
 **Role**: a function that can be linked to a member with a given mandate.
 
@@ -81,7 +81,7 @@ Note that labels are defined at the circle level. The labels that can be attach 
 
 ## Create and edit template roles
 
-In the **settings panel**, the *roles menu* allow you to create, edit and remove roles.
+In the **settings panel**, the *roles menu* allow you to create, edit and remove roles. 
 
 Once a template role is created, you will be able to use it when you create a new role in your organisation
 

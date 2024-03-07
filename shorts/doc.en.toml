@@ -1,4 +1,3 @@
-
 [org]
 name = "Organisations"
 
@@ -104,6 +103,7 @@ content = "New member can be invite to join your organisation. You can invite ei
 
 [tension]
 name = "Tensions"
+
 
 [tension.tasks.create]
 header = "Create tension"

@@ -1,6 +1,6 @@
 ## Définitions
 
-**organisation** (fractale) : un groupe d'humains partageant une raison d'être commune (cercle racine ou ancre) composé de roles et de cercles.
+**organisation** (fractale) : un groupe d'humains partageant une raison d'être commune (cercle racine ou ancre) composé de roles et de cercles.  
 
 **Role** : une fonction réalisé par un membre avec un mandat donné.   
 
